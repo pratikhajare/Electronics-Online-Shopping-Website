@@ -11,7 +11,7 @@
 
 	<properties>
 		<javaee.version>8.0.1</javaee.version>
-		<spring.version>5.2.5.RELEASE</spring.version>
+		<spring.version>5.3.14</spring.version>
 		 <jackson.version>2.11.0</jackson.version>
 		 <spring.security.version>5.3.0.RELEASE</spring.security.version> 
 	</properties>
