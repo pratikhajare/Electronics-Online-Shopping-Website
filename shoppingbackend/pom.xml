@@ -14,7 +14,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <spring.version>5.2.5.RELEASE</spring.version>
-    <jackson.version>2.11.0</jackson.version>
+    <jackson.version>2.12.6.1</jackson.version>
   </properties>
 
   <dependencies>
